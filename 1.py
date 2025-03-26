@@ -60,3 +60,5 @@ if __name__ == "__main__":
         df = clean_data(df)
         analyze_data(df)
         visualize_data(df)
+print("Hello world")
+
